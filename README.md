@@ -57,7 +57,7 @@ EMAIL_PASS=your_email_password_or_app_password
 ### 3. Start the backend server
 
 ```bash
-npm start
+npm run dev
 ```
 
 The backend runs at: `http://localhost:3000`
